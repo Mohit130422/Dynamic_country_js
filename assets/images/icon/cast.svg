@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="99" height="27" viewBox="0 0 99 27">
-  <g id="Group_8585" data-name="Group 8585" transform="translate(-1248 -755)">
-    <text id="Schedule_Session" data-name="Schedule Session" transform="translate(1297 776)" fill="#1a73e8" font-size="22" font-family="Montserrat-SemiBold, Montserrat" font-weight="600"><tspan x="0" y="0">Cast</tspan></text>
-    <path id="Icon_awesome-chromecast" data-name="Icon awesome-chromecast" d="M31.488,4.5H4.5a3,3,0,0,0-3,3V12h3V7.5H31.488V28.5H21v3H31.5a3,3,0,0,0,3-3V7.5a3,3,0,0,0-3-3ZM1.5,26.97v4.494H5.99A4.494,4.494,0,0,0,1.5,26.97Zm0-6v3a7.5,7.5,0,0,1,7.5,7.5V31.5h3A10.49,10.49,0,0,0,1.522,21H1.5Zm0-6v3A13.492,13.492,0,0,1,15,31.465V31.5h3A16.557,16.557,0,0,0,1.5,15Z" transform="translate(1246.504 750.5)" fill="#1a73e8"/>
-  </g>
-</svg>
